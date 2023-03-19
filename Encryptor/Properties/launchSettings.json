@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Encryptor": {
+      "commandName": "Project",
+      "commandLineArgs": "decrypt\r\n\"C:\\Users\\kamer\\Documents\\encryptthis\"\r\n\"toasty\""
+    }
+  }
+}
